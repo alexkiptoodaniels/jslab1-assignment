@@ -1,1 +1,0 @@
-# jslab1-assignment
